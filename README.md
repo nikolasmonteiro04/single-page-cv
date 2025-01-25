@@ -1,4 +1,4 @@
-# single-page-cv
+# Single Page CV - Giorgi Nikolas Monteiro
 Front End Project based on <a href="https://roadmap.sh/projects/single-page-cv">roadmap.sh</a>
 
 <h3>Project Description</h3>
